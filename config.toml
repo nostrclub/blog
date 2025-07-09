@@ -1,4 +1,4 @@
-baseURL = "https://nostr.club"
+baseURL = "https://blog.nostr.club"
 languageCode = "en-us"
 title = "nostr.club"
 theme = "PaperMod"
