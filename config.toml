@@ -2,38 +2,14 @@ baseURL = "https://blog.nostr.club"
 languageCode = "en-us"
 title = "nostr.club blog"
 theme = "PaperMod"
-paginate = 10
 
 [params]
-  defaultTheme = "light"
-  ShowBreadCrumbs = true
-  ShowReadingTime = true
-  ShowCodeCopyButtons = true
-  ShowShareButtons = false
+  defaultTheme = "auto"
 
 [params.homeInfoParams]
-  Title = "⚡ nostr.club"
-  Content = """The identity layer for Nostr.
-
-We provide human-readable NIP-05 names, lightning-fast vanity redirects, and censorship-resistant identity on the open social web.
-"""
+  Title = "Welcome to nostr.club"
+  Content = "Identity. Lightning. Censorship resistance."
 
 [[menu.main]]
-  name = "Blog"
-  url = "/posts/"
-  weight = 1
-
-[[menu.main]]
-  name = "Guides"
-  url = "/guides/"
-  weight = 2
-
-[[menu.main]]
-  name = "Changelog"
-  url = "/changelog/"
-  weight = 3
-
-[[menu.main]]
-  name = "About"
-  url = "/about/"
-  weight = 4
+  name = "Home"
+  url = "/"
