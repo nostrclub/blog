@@ -4,7 +4,7 @@ title = "nostr.club blog"
 theme = "PaperMod"
 
 [params]
-  defaultTheme = "auto"
+  defaultTheme = "light"
 
 [params.homeInfoParams]
   Title = "Welcome to nostr.club"
@@ -13,3 +13,6 @@ theme = "PaperMod"
 [[menu.main]]
   name = "Home"
   url = "/"
+
+  
+
