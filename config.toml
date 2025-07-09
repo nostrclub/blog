@@ -2,23 +2,28 @@ baseURL = "https://blog.nostr.club"
 languageCode = "en-us"
 title = "nostr.club ✦ Blog"
 theme = "PaperMod"
-
 paginate = 10
 
- [params.homeInfoParams]
-  Title = "⚡ Welcome to nostr.club"
-  Content = "The home of NIP-05 vanity identities, Lightning-powered profiles, and censorship-resistant social presence.\n\nThis blog covers everything from Nostr tips to building your zap-enabled identity on the decentralized web."
-
-
+[params]
   ShowBreadCrumbs = true
   ShowReadingTime = true
   ShowCodeCopyButtons = true
   defaultTheme = "auto"
   ShowShareButtons = true
-  socialIcons = [
-    { name = "github", url = "https://github.com/nostrclub" },
-    { name = "website", url = "https://nostr.club" }
-  ]
+
+[params.homeInfoParams]
+  Title = "⚡ Welcome to nostr.club"
+  Content = """The home of NIP-05 vanity identities, Lightning-powered profiles, and censorship-resistant social presence.
+
+This blog covers everything from Nostr tips to building your zap-enabled identity on the decentralized web."""
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/nostrclub"
+
+[[params.socialIcons]]
+  name = "website"
+  url = "https://nostr.club"
 
 [[menu.main]]
   name = "Guides"
