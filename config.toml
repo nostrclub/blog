@@ -1,7 +1,31 @@
 baseURL = "https://blog.nostr.club"
 languageCode = "en-us"
-title = "nostr.club's blog"
+title = "nostr.club ✦ Blog"
 theme = "PaperMod"
 
 [params]
-  homeInfoParams = { Title = "Welcome to nostr.club", Content = "This is your Hugo homepage." }
+  homeInfoParams = { 
+    Title = "🚀 Welcome to nostr.club",
+    Content = "Identity. Lightning. Censorship-resistance.\n\nThis blog is your gateway to the decentralized web." 
+  }
+
+  ShowBreadCrumbs = true
+  ShowReadingTime = true
+  ShowCodeCopyButtons = true
+  defaultTheme = "dark"  # หรือ "auto"
+  ShowShareButtons = true
+
+[[menu.main]]
+  name = "Guides"
+  url = "/guides/"
+  weight = 1
+
+[[menu.main]]
+  name = "Updates"
+  url = "/updates/"
+  weight = 2
+
+[[menu.main]]
+  name = "Profiles"
+  url = "/profiles/"
+  weight = 3
