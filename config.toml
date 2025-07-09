@@ -6,10 +6,10 @@ theme = "PaperMod"
 paginate = 10
 
 [params]
-  homeInfoParams = { 
-    Title = "⚡ Welcome to nostr.club",
-    Content = "The home of NIP-05 vanity identities, Lightning-powered profiles, and censorship-resistant social presence.\n\nThis blog covers everything from Nostr tips to building your zap-enabled identity on the decentralized web." 
-  }
+ [params.homeInfoParams]
+  Title = "⚡ Welcome to nostr.club"
+  Content = "The home of NIP-05 vanity identities, Lightning-powered profiles, and censorship-resistant social presence.\n\nThis blog covers everything from Nostr tips to building your zap-enabled identity on the decentralized web."
+
 
   ShowBreadCrumbs = true
   ShowReadingTime = true
