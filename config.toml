@@ -1,0 +1,7 @@
+baseURL = "https://nostr.club"
+languageCode = "en-us"
+title = "nostr.club"
+theme = "PaperMod"
+
+[params]
+  homeInfoParams = { Title = "Welcome to nostr.club", Content = "This is your Hugo homepage." }
