@@ -49,16 +49,15 @@ googleAnalytics = ""
   Exploring the future of decentralized social media and financial sovereignty.
   """
 
-[params.socialIcons]
-  [[params.socialIcons]]
-    name = "twitter"
-    url = "https://twitter.com/nostrclub"
-  [[params.socialIcons]]
-    name = "github"
-    url = "https://github.com/nostrclub"
-  [[params.socialIcons]]
-    name = "rss"
-    url = "index.xml"
+[[params.socialIcons]]
+  name = "twitter"
+  url = "https://twitter.com/nostrclub"
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/nostrclub"
+[[params.socialIcons]]
+  name = "rss"
+  url = "index.xml"
 
 [[menu.main]]
   name = "Home"
