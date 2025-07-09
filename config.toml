@@ -29,3 +29,8 @@ theme = "PaperMod"
   name = "Profiles"
   url = "/profiles/"
   weight = 3
+
+  [params.assets]
+  favicon = "favicon.png"
+  logo = "logo.png"
+
