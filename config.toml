@@ -1,6 +1,6 @@
 baseURL = "https://blog.nostr.club"
 languageCode = "en-us"
-title = "nostr.club"
+title = "nostr.club's blog"
 theme = "PaperMod"
 
 [params]
