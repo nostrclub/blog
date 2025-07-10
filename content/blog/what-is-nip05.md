@@ -18,8 +18,10 @@ It links your long Nostr public key (`npub...`) to a human-readable name like:
 
 you@yourdomain.com
 
+
 Or, if you’re on the right side of the internet:
 coffee@nostr.club
+
 
 This makes your profile:
 
@@ -46,7 +48,6 @@ It's like an old-school verified check... but self-hosted.
 ### ✅ It’s Zap-Friendly
 People are more likely to zap:
 coffee@nostr.club
-
 than
 npub1xx934a...d9f9af2
 
