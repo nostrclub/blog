@@ -52,24 +52,19 @@ googleAnalytics = ""
   weight = 10
 
 [[menu.main]]
-  name = "Posts"
-  url = "/posts/"
-  weight = 20
-
-[[menu.main]]
   name = "About"
   url = "/about/"
-  weight = 30
+  weight = 20
 
 [[menu.main]]
   name = "Tags"
   url = "/tags/"
-  weight = 40
+  weight = 30
 
 [[menu.main]]
   name = "Categories"
   url = "/categories/"
-  weight = 50
+  weight = 40
 
 [markup]
   [markup.goldmark]
