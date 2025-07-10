@@ -39,7 +39,12 @@ googleAnalytics = ""
   hideSummary = false
   showtoc = false
   tocopen = false
+  
+[params]
+  logo = "logo.png"
 
+[params.assets]
+  favicon = "favicon.ico"
 
 [[menu.main]]
   name = "Home"
