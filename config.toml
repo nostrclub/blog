@@ -42,7 +42,6 @@ googleAnalytics = ""
   showtoc = false
   tocopen = false
   ShowSearch = true
-  ShowPostAuthor = false
 
   [params.assets]
     favicon = "favicon.ico"
