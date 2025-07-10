@@ -38,7 +38,6 @@ googleAnalytics = ""
   disableScrollToTop = false
   comments = false
   hidemeta = false
-  hideFooter = true
   hideSummary = false
   showtoc = false
   tocopen = false
