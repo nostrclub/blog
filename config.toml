@@ -1,6 +1,6 @@
 baseURL = "https://blog.nostr.club"
 languageCode = "en-us"
-title = "nostr.club blog"
+title = "nostr's blog"
 theme = "PaperMod"
 [pagination]
   pagerSize = 5
