@@ -24,7 +24,7 @@ googleAnalytics = ""
   author = "nostr.club"
   images = [""]
   DateFormat = "January 2, 2006"
-  defaultTheme = "light"
+  defaultTheme = "auto"
   disableThemeToggle = true
   ShowReadingTime = true
   ShowShareButtons = false
@@ -42,6 +42,8 @@ googleAnalytics = ""
   showtoc = false
   tocopen = false
   logo = "logo.png"
+  env = "production" # required to enable search
+  ShowSearch = true
 
   [params.assets]
     favicon = "favicon.ico"
@@ -65,11 +67,6 @@ googleAnalytics = ""
   name = "Categories"
   url = "/categories/"
   weight = 40
-
-[[menu.main]]
-  name = "Search"
-  url = "/search/"
-  weight = 50
 
 [markup]
   [markup.goldmark]
