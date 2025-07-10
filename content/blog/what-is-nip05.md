@@ -121,4 +121,5 @@ You own it.
 - You’ve now got an **opinionated, educational, and legit first blog post**
 
 Let me know if you want me to follow up with post #2:
-> "How to set up NIP-05 on Netlify (like a hacker with a budget)" 😎
+> 👉 [How to set up NIP-05 on Netlify (like a hacker with a budget) 😎](/blog/nip05-on-netlify/)
+
