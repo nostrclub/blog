@@ -2,7 +2,7 @@
 title: "What is a NIP-05 and Why Do We Even Care?"
 date: 2025-07-09
 tags: ["nip-05", "identity", "decentralization"]
-categories: ["Guides"]
+categories: ["Guide"]
 ---
 
 > `coffee@nostr.club` looks more human than `npub1xyzq3...`, doesn’t it?
