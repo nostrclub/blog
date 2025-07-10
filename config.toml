@@ -50,16 +50,6 @@ googleAnalytics = ""
   Your source for everything happening in the Nostr decentralized social media ecosystem.
   """
 
-[[params.socialIcons]]
-  name = "twitter"
-  url = "https://twitter.com/nostrclub"
-[[params.socialIcons]]
-  name = "github"
-  url = "https://github.com/nostrclub"
-[[params.socialIcons]]
-  name = "rss"
-  url = "index.xml"
-
 [[menu.main]]
   name = "Home"
   url = "/"
