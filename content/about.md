@@ -4,8 +4,6 @@ description: "Your dedicated source for Nostr protocol news, developments, and e
 date: 2025-07-10
 ---
 
-# About nostr.club
-
 Welcome to **nostr.club** — the pulse of the Nostr ecosystem. We're your dedicated source for everything happening in the world of decentralized social media and censorship-resistant communication.
 
 ## 🎯 Our Mission
