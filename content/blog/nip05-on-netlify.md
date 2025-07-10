@@ -2,6 +2,7 @@
 title: "How to set up NIP-05 on Netlify (like a hacker with a budget) 😎"
 date: 2025-07-10
 tags: ["NIP-05", "nostr", "netlify", "identity", "lightning"]
+categories: ["Guide"]
 ---
 
 > Want a custom Nostr identity like `you@nostr.club`?  
