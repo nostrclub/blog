@@ -42,7 +42,6 @@ googleAnalytics = ""
   showtoc = false
   tocopen = false
   logo = "logo.png"
-  env = "production" # required to enable search
   ShowSearch = true
 
   [params.assets]
