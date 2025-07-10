@@ -10,5 +10,6 @@ title: "Welcome to nostr.club blog"
 
 Follow me ⚡
 
-[![GitHub](https://img.shields.io/badge/GitHub-nostrclub-blue?logo=github)](https://github.com/nostrclub)
 [![Nostr](https://img.shields.io/badge/Nostr-Follow-8C52FF?logo=zap)](https://nostr.club/coffee)
+[![GitHub](https://img.shields.io/badge/GitHub-nostrclub-blue?logo=github)](https://github.com/nostrclub)
+
