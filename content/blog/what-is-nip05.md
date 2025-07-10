@@ -61,19 +61,25 @@ Clients (like Primal) ask your domain for:
 
 https://yourdomain.com/.well-known/nostr.json
 
+
 And they expect to find something like this:
 
-```json
+<pre>
 {
   "names": {
     "coffee": "npub1xyz..."
   }
 }
+</pre>
+
 That’s it. Static JSON = portable identity.
 
 No blockchain. No database. Just a file.
 
-🧠 But What’s the Catch?
+---
+
+## 🧠 But What’s the Catch?
+
 It’s not encrypted. Anyone can see who’s linked to what.
 
 It’s centralized to a domain (unless you decentralize your hosting)
@@ -82,7 +88,10 @@ It’s opt-in — not everyone uses it, which is fine.
 
 NIP-05 isn’t perfect. But it’s damn useful.
 
-🌍 Why We Like It at nostr.club
+---
+
+## 🌍 Why We Like It at nostr.club
+
 Because we believe:
 
 Your name shouldn’t belong to someone else’s platform.
