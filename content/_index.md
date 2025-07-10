@@ -8,7 +8,7 @@ title: "Welcome to nostr.club blog"
 - Build your Lightning identity
 - Stay up to date on the Nostr ecosystem
 
-Follow me on [nostr](https://nostr.club/coffee) ⚡
+Follow me ⚡
 
 [![GitHub](https://img.shields.io/badge/GitHub-nostrclub-blue?logo=github)](https://github.com/nostrclub)
 [![Nostr](https://img.shields.io/badge/Nostr-Follow-8C52FF?logo=zap)](https://nostr.club/coffee)
