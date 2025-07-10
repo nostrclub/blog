@@ -41,11 +41,6 @@ googleAnalytics = ""
   tocopen = false
 
 
-
-[[params.socialIcons]]
-  name = "nostr"
-  url = "https://nostr.club/coffee"
-
 [[menu.main]]
   name = "Home"
   url = "/"
