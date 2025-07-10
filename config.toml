@@ -1,4 +1,81 @@
-theme = "minimal"
+baseURL = "https://blog.nostr.club"
+languageCode = "en-us"
+title = "nostr.club blog"
+theme = "PaperMod"
+[pagination]
+  pagerSize = 5
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+googleAnalytics = ""
+
+[minify]
+  disableXML = true
+  minifyOutput = true
+
 [params]
-  description = "Your source for everything happening in the Nostr ecosystem"
-  nostrProfile = "https://nostr.club/coffee"
+  env = "production"
+  title = "nostr.club blog"
+  description = "Exploring decentralized identity, Lightning Network, and censorship resistance"
+  keywords = ["nostr", "bitcoin", "lightning", "decentralized", "censorship resistance"]
+  author = "nostr.club"
+  images = [""]
+  DateFormat = "January 2, 2006"
+  defaultTheme = "light"
+  disableThemeToggle = true
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = true
+  disableSpecial1stPost = false
+  disableScrollToTop = false
+  comments = false
+  hidemeta = false
+  hideSummary = false
+  showtoc = false
+  tocopen = false
+
+
+
+[[params.socialIcons]]
+  name = "nostr"
+  url = "https://nostr.club/coffee"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 10
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 20
+
+[[menu.main]]
+  name = "Tags"
+  url = "/tags/"
+  weight = 30
+
+[[menu.main]]
+  name = "Categories"
+  url = "/categories/"
+  weight = 40
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    noClasses = false
+    codeFences = true
+    guessSyntax = true
+    lineNos = true
+    style = "github"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
