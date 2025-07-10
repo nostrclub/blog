@@ -43,8 +43,9 @@ googleAnalytics = ""
 [params]
   logo = "logo.png"
 
-[params.assets]
-  favicon = "favicon.ico"
+  [params.assets]
+    favicon = "favicon.ico"
+
 
 [[menu.main]]
   name = "Home"
