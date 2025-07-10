@@ -25,7 +25,7 @@ googleAnalytics = ""
   defaultTheme = "light"
   disableThemeToggle = false
   ShowReadingTime = true
-  ShowShareButtons = true
+  ShowShareButtons = false
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
@@ -41,13 +41,13 @@ googleAnalytics = ""
   tocopen = false
 
 [params.homeInfoParams]
-  Title = "Welcome to nostr.club"
+  Title = "nostr.club blog"
   Content = """
-  🔑 **Identity** - Own your digital identity without intermediaries  
-  ⚡ **Lightning** - Instant Bitcoin payments and micropayments  
-  🛡️ **Censorship Resistance** - Unstoppable communication protocol  
+  📰 **Latest News** - Stay updated with Nostr protocol developments  
+  🔧 **Technical Updates** - New NIPs, client updates, and protocol improvements  
+  🌐 **Ecosystem Growth** - Community projects, tools, and innovations  
   
-  Exploring the future of decentralized social media and financial sovereignty.
+  Your source for everything happening in the Nostr decentralized social media ecosystem.
   """
 
 [[params.socialIcons]]
