@@ -2,7 +2,6 @@
 title: "Jack Dorsey’s Enduring Support for Nostr: Pioneering Decentralized Communication with BitChat"
 date: 2025-07-11T10:43:00+07:00
 draft: false
-author: "Your Name"
 categories: ["Ecosystem"]
 tags: ["Nostr", "BitChat", "Jack Dorsey", "Decentralized", "Privacy"]
 description: "Exploring Jack Dorsey’s advocacy for Nostr and the innovative BitChat app, a Bluetooth-based decentralized chat solution."
