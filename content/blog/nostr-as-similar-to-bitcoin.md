@@ -3,7 +3,7 @@ title: "Why Do Some See Nostr as Similar to Bitcoin in Its Early Days of Adoptio
 date: 2025-07-11
 tags: [Nostr, Bitcoin, Decentralization, Social Media]
 description: "A comparison of Nostr's current growth and community with Bitcoin's early adoption phase."
-category: [Culture]
+categories: ["Culture"]
 ---
 
 ## Why Nostr Is Compared to Bitcoin’s Early Days
