@@ -7,10 +7,6 @@ tags: ["Nostr", "BitChat", "Jack Dorsey", "Decentralized", "Privacy"]
 description: "Exploring Jack Dorsey’s advocacy for Nostr and the innovative BitChat app, a Bluetooth-based decentralized chat solution."
 ---
 
-# Jack Dorsey’s Enduring Support for Nostr: Pioneering Decentralized Communication with BitChat
-
-## Introduction
-
 In an era where centralized social media and messaging platforms dominate digital communication, the Nostr protocol has emerged as a beacon for those seeking censorship-resistant, user-controlled alternatives. At the forefront of this movement is Jack Dorsey, the former CEO of Twitter (now X), whose consistent advocacy for Nostr has elevated its profile. Recently, Dorsey’s promotion of BitChat, a Bluetooth-based decentralized chat app built on Nostr, has sparked renewed interest in the protocol. This article explores Dorsey’s ongoing commitment to Nostr, the significance of BitChat, and how these developments signal a bold step toward redefining private, decentralized communication.
 
 ## Jack Dorsey’s Nostr Journey: From Donation to Evangelism
